@@ -7,3 +7,4 @@ if (isset($_SESSION['num'])) {
 }
 // unset($_SESSION['num']); // 刪掉某個 session 變數
 echo $_SESSION['num'];
+//0704
